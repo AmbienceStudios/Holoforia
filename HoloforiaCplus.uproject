@@ -26,6 +26,10 @@
 				"Linux",
 				"Android"
 			]
+		},
+		{
+			"Name": "MultiUserClient",
+			"Enabled": true
 		}
 	]
 }
