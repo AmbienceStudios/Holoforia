@@ -1,0 +1,35 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "6.0",
+	"FriendlyName": "ReadyPlayerMe",
+	"Description": "ReadyPlayerMe Avatar Toolkit",
+	"Category": "ReadyPlayerMe",
+	"CreatedBy": "Wolf3D",
+	"CreatedByURL": "",
+	"DocsURL": "https://docs.readyplayer.me/",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "ReadyPlayerMe",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "glTFRuntime",
+			"Enabled": true
+		},
+		{
+			"Name": "WebBrowserWidget",
+			"Enabled": true
+		}
+
+	]
+}
